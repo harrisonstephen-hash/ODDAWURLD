@@ -1,0 +1,6 @@
+{
+  "name": "ODDAWURLD Footwear",
+  "description": "Modern minimalist shoe designs and luxury footwear hero showcase with dark emerald aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
